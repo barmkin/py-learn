@@ -1,0 +1,6 @@
+# All prints must return 8 (int)
+print( 7 + 1 )
+print( 1_000_000 - 999_992 )
+print( 4 * 2 )
+print( int(80 / 10) )
+print( 2**3 )
